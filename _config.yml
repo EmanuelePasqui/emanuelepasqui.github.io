@@ -13,9 +13,9 @@ title                    : "Emanuele's homepage"
 title_separator          : "-"
 name                     : &name "Emanuele Pasqui"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://emanuelepasqui.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "EmanuelePasqui/emanuelepasqui.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "7DL_4559copia-min.JPG"
   name             : "Emanuele Pasqui"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Student interested in Probability"
   location         : "Italy"
   employer         : "University of Padua"
   uri              : # URL
@@ -35,10 +35,10 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0007-5365-3370"
+  orcid            : "0009-0007-5365-3370"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Emanuele-Pasqui"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "Emanuele-Pasqui"
   scopus           : # URL
 
   # Repositories and software development
