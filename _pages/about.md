@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![Illustration of GFF](/images/GFF_per_github.jpg){: .align-right width="300px"}
 ➕ I'm a 2nd year Ph.D. student in Mathematics, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/).
 
 ➖ I'm interested in Probability, specializing in Statistical Mechanics.
