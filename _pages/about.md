@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-➕ I'm a 2^{nd} year Ph.D. student in Mathematics.
+➕ I'm a 2° year Ph.D. student in Mathematics.
 
 ➖ I'm interested in Probability, specializing in Statistical Mechanics.
 
