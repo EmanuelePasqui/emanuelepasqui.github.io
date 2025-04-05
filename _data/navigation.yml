@@ -12,10 +12,7 @@ main:
   #  url: /publications/
 
   #- title: "Talks"
-  #  url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  #  url: /talks/      
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -26,6 +23,9 @@ main:
   - title: "CV"
   #  url: /cv/
     url: /files/CV.pdf
+
+  - title: "Teaching"
+    url: /teaching/  
     
   # - title: "CV"
   #   url: /cv-json/
