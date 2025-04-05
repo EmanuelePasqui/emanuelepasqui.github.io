@@ -10,7 +10,7 @@ redirect_from:
 
 
 ![Illustration of GFF >](/images/GFF_per_github.png){: .align-right width="250px"}
-➕   I am a 2nd year Ph.D. student in Mathematics at [University of Padova](https://www.unipd.it/), supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/);
+➕   I am a 2nd year Ph.D. student in Mathematics at [University of Padova](https://www.unipd.it/) in the probability group, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/);
 
 ➖   I am interested in Probability, specializing in Statistical Mechanics, currently doing research on the Gaussian Free Field;
 
