@@ -35,10 +35,10 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "0009-0007-5365-3370"
+  orcid            : "https://orcid.org/0009-0007-5365-3370"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "Emanuele-Pasqui"
+  researchgate     : "https://www.researchgate.net/profile/Emanuele-Pasqui"
   scopus           : # URL
 
   # Repositories and software development
