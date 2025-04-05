@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of GFF >](/images/GFF_per_github.jpg)
-➕   I am a 2nd year Ph.D. student in Mathematics, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/), at University of Padua ![Logo Unipd](/images/unipd-logo.png)
+![Illustration of GFF >](/images/GFF_per_github.jpg){: .align-right width="250px"}
+➕   I am a 2nd year Ph.D. student in Mathematics, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/), at University of Padua ![Logo Unipd](/images/unipd-logo.png){: .width="20px"}
 ;
 
 ➖   Interested in Probability, specializing in Statistical Mechanics;
