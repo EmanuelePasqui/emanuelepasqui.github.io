@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Emanuele's homepage"
+title                    : "Emanuele's Homepage"
 title_separator          : "-"
 name                     : &name "Emanuele Pasqui"
 description              : &description "personal description"
