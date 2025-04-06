@@ -10,15 +10,17 @@ redirect_from:
 
 
 ![Illustration of GFF >](/images/GFF_per_github.png){: .align-right width="250px"}
-➕   I am a 2nd year Ph.D. student in Mathematics at [University of Padova](https://www.unipd.it/) in the probability group, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/);
+➕   I am a 2nd year Ph.D. student in Mathematics at [University of Padova](https://www.unipd.it/) in the probability group, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
 
-➖   I am interested in Probability, specializing in Statistical Mechanics, currently doing research on the Gaussian Free Field;
+➖   I am interested in Probability, specializing in Statistical Mechanics, in particular on random processes in random media, currently researching the Gaussian Free Field in random environment.
 
-✖️   Secondary interests: Stochastic calculus, particle systems, finance.
+✖️   My secondary interests are stochastic calculus, particle systems, and finance.
 
-➗   I have a Master's in Applied Mathematics and a Bachelor's in Mathematics, both at Sapienza University of Rome;
+➗   I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from Sapienza University of Rome.
 
-🟰   
+🟰   Here you will find an ultra-short version of my academic CV with selected experiences. For a broader view, please click on the "CV" section on the top.
+
+*Prova*
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
