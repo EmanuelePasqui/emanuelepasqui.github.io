@@ -18,9 +18,25 @@ redirect_from:
 
 ➗   I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from Sapienza University of Rome.
 
-🟰   Here you will find an ultra-short version of my academic CV with selected experiences. For a broader view, please click on the "CV" section on the top.
+🟰   Below you will find an ultra-short version of the rest of my CV with selected experiences. For a broader view, please click on the "CV" section at the top.
 
-*Prova*
+## Master's thesis
+*Title*: Oil And Water and Internal Diffusion Limited Aggregation
+*Supervisor*: Lorenzo Taggi
+*Short description*: Oil And Water and Internal Diffusion Limited Aggregation are two randomly interacting particle systems on graphs. We considered, for both, two questions:
+1. the phase transition with respect to the initial particle density between the two regimes of fixation and activity;
+2. internal aggregation.
+Oil And Water has not a complete theory about internal aggregation, hence we analyzed a conjecture and introduced a new simpler model not present in the literature, with the same cluster growth rate as Oil And Water.
+We also compared the particles distributions on the clusters of the models and analyzed their fluctuations.
+
+## Bachelor's thesis
+*Title*:  Mathematical formalization of the financial market and CRR Model
+*Supervisor*: Gustavo Posta
+*Short description*: Probabilistic description of a financial market, then used to study the CRR and the Black-Scholes model.  
+
+## Selected professional experiences
+#### Deloitte Touche- Analyst in the “Actuarial and Insurance Solutions” division
+*Aim*: Financial consulting for insurance companies by implementing software for asset-liabilities management and projections for several scenarios (mainly for Solvency II compliance).  
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
