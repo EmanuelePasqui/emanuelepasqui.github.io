@@ -1,4 +1,4 @@
-# The following is the order of the links in the header of the website.
+e# The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -24,7 +24,7 @@ main:
   #  url: /cv/
     url: /files/CV.pdf
 
-  - title: "Tutoring"
+  - title: "Conferences"
     url: /teaching/  
     
   # - title: "CV"
