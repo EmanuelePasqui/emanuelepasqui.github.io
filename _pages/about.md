@@ -21,17 +21,16 @@ redirect_from:
 🟰   Below you will find an ultra-short version of the rest of my CV with selected experiences. For a broader view, please click on the "CV" section at the top.
 
 ## Master's thesis
-*Title*: Oil And Water and Internal Diffusion Limited Aggregation
-*Supervisor*: Lorenzo Taggi
+*Title*: Oil And Water and Internal Diffusion Limited Aggregation  
+*Supervisor*: Lorenzo Taggi  
 *Short description*: Oil And Water and Internal Diffusion Limited Aggregation are two randomly interacting particle systems on graphs. We considered, for both, two questions:
 1. the phase transition with respect to the initial particle density between the two regimes of fixation and activity;
-2. internal aggregation.
-Oil And Water has not a complete theory about internal aggregation, hence we analyzed a conjecture and introduced a new simpler model not present in the literature, with the same cluster growth rate as Oil And Water.
+2. internal aggregation. Oil And Water has not a complete theory about internal aggregation, hence we analyzed a conjecture and introduced a new simpler model not present in the literature, with the same cluster growth rate as Oil And Water.
 We also compared the particles distributions on the clusters of the models and analyzed their fluctuations.
 
 ## Bachelor's thesis
-*Title*:  Mathematical formalization of the financial market and CRR Model
-*Supervisor*: Gustavo Posta
+*Title*:  Mathematical formalization of the financial market and CRR Model  
+*Supervisor*: Gustavo Posta  
 *Short description*: Probabilistic description of a financial market, then used to study the CRR and the Black-Scholes model.  
 
 ## Selected professional experiences
