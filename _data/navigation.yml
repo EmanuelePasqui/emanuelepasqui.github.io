@@ -24,8 +24,8 @@ main:
   #  url: /cv/
     url: /files/CV.pdf
 
-  - title: "Teaching"
-    url: /teaching/  
+  #- title: "Teaching"
+  #  url: /teaching/  
     
   # - title: "CV"
   #   url: /cv-json/
