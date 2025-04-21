@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Emanuele Pasqui
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Emanuele
+last_name: Pasqui
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎲
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,31 +20,33 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Padova
+    url: https://www.unipd.it/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: 'mailto:pasqui@math.unipd.it'
+    label: E-mail Me at pasqui@math.unipd.it
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: http://linkedin.com/in/emanuelepasqui/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0007-5365-3370/
+  - icon: custom/researchgate
+    url:'https://www.researchgate.net/profile/Emanuele-Pasqui/'
 
 interests:
   - Artificial Intelligence
