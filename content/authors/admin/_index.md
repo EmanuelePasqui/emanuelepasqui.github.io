@@ -41,15 +41,15 @@ profiles:
   #  url: https://github.com/gcushen
   - icon: brands/linkedin
     url: http://linkedin.com/in/emanuelepasqui/
-    #label: LinkedIn, just to showboat
+    label: LinkedIn, just to showboat
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-5365-3370/
-    #label: ORCID page
+    label: ORCID page
   - icon: "custom/researchgate.svg"
     url: https://www.researchgate.net/profile/Emanuele-Pasqui/
-    #label: ResearchGate page
+    label: ResearchGate page
 
 interests:
   - Statistical mechanics
