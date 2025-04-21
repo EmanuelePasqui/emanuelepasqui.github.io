@@ -60,7 +60,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: University of Padova
     date_start: 2023-10-04
-    date_end: ongoing
+    date_end: 2024-02-02
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
