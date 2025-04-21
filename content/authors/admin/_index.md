@@ -46,12 +46,12 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-5365-3370/
   - icon: "custom/researchgate.svg"
-    url:'https://www.researchgate.net/profile/Emanuele-Pasqui/'
+    url: https://www.researchgate.net/profile/Emanuele-Pasqui/
 
 interests:
-  - Statistical Mechanics
-  - Gaussian Free Field
-  - Information Retrieval
+  - Statistical mechanics
+  - Stochastic calculus
+  - Finance
 
 education:
   - area: PhD Artificial Intelligence
