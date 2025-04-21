@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:pasqui@math.unipd.it'
-    label: E-mail Me at pasqui@math.unipd.it
+    label: E-mail me at pasqui@math.unipd.it
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram
@@ -41,12 +41,15 @@ profiles:
   #  url: https://github.com/gcushen
   - icon: brands/linkedin
     url: http://linkedin.com/in/emanuelepasqui/
+    label: LinkedIn, just to showboat
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-5365-3370/
-  - icon: "custom/researchgate.svg"
+    label: ORCID page
+  - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Emanuele-Pasqui/
+    label: ResearchGate page
 
 interests:
   - Statistical mechanics
@@ -55,9 +58,9 @@ interests:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: University of Padova
+    date_start: 2023-10-04
+    date_end: ongoing
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
