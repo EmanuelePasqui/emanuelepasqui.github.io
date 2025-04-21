@@ -49,8 +49,8 @@ profiles:
     url:'https://www.researchgate.net/profile/Emanuele-Pasqui/'
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Statistical Mechanics
+  - Gaussian Free Field
   - Information Retrieval
 
 education:
