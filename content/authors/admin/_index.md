@@ -57,37 +57,54 @@ interests:
   - Finance
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Mathematics
     institution: University of Padova
     date_start: 2023-10-04
-    date_end: 2024-02-02
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
+  - area: Machine Learning for Finance
+    institution: University of Eastern Piedmont
+    date start: 2022-04-01
+    date end: 2022-07-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Supervised Learning: SVM, Decision Trees, Random Forests
+      - Unsupervised Learning: Clustering, PCA
+      - Neural Networks: modeling, activation function and regularization methods
+      - More advanced NN structures: Siamese Networks, AutoEncoders.
+  - area: MSc Applied Mathematics
+    institution: Sapienza University of Rome
+    date_start: 2019-09-01
+    date_end: 2022-03-29
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      *Grade*: 110 with honors/110
+      *Title*: Oil And Water and Internal Diffusion Limited Aggregation
+      *Supervisor*: [Lorenzo Taggi](https://sites.google.com/site/lorenzotaggiswebpage2/)
+      *Short description*: Oil And Water and Internal Diffusion Limited Aggregation are two randomly interacting particle systems on graphs. We considered, for both, two questions:
+      1. the phase transition with respect to the initial particle density between the two regimes of fixation and activity;
+      2. internal aggregation. Oil And Water has not a complete theory about internal aggregation, hence we analyzed a conjecture and introduced a new simpler model not present in the literature, with the same cluster growth rate as Oil And Water.
+      We also compared the particles distributions on the clusters of the models and analyzed their fluctuations.
+#      
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Mathematics
+    institution: Sapienza University of Rome
+    date_start: 2016-09-01
+    date_end: 2019-09-18
+    summary: |
+      *Title*:  Mathematical formalization of the financial market and CRR Model  
+      *Supervisor*: [Gustavo Posta](https://www1.mat.uniroma1.it/people/posta/)
+      *Short description*: Probabilistic description of a financial market, in order to study the CRR and the Black-Scholes model.
+#
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -147,11 +164,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Italian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 90
+  - name: Spanish
     percent: 25
 
 # Awards.
@@ -187,5 +204,14 @@ awards:
 ---
 
 ## About Me
+
+![Illustration of GFF >](/images/GFF_per_github.png){: .align-right width="250px"}
+➕   I am a 2nd year Ph.D. student in Mathematics at [University of Padova](https://www.unipd.it/) in the probability group, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
+
+➖   I am interested in Probability, specializing in Statistical Mechanics, in particular on random processes in random media, currently researching the Gaussian Free Field in random environment.
+
+✖️   My secondary interests are stochastic calculus, particle systems, and finance.
+
+➗   I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from Sapienza University of Rome.
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
