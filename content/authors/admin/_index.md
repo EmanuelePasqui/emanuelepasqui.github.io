@@ -143,7 +143,7 @@ skills:
   items:
     - name: C
       description: excellent
-      icon: devicon/c
+      icon: code-bracket
       percent: 80
     - name: Python
       description: excellent
