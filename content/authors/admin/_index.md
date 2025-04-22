@@ -143,19 +143,19 @@ skills:
   items:
     - name: C
       description: excellent
-      icon: "custom/C"
+      icon: code-bracket
       percent: 80
     - name: Python
       description: excellent
-      icon: "custom/python"
+      icon: python
       percent: 80
     - name: Matlab
       description: excellent
-      icon: "custom/matlab"
+      icon: circle-stack
       percent: 80
     - name: R
       description: excellent
-      icon: "custom/R"
+      icon: chart-bar
       percent: 80
     - name: LaTeX
       description: excellent
