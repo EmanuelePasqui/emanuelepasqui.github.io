@@ -85,7 +85,7 @@ education:
       *Title*: Oil And Water and Internal Diffusion Limited Aggregation
 
       *Supervisor*: [Lorenzo Taggi](https://sites.google.com/site/lorenzotaggiswebpage2/)
-      
+
       *Short description*: Oil And Water and Internal Diffusion Limited Aggregation are two randomly interacting particle systems on graphs. We considered, for both, two questions:
       1. the phase transition with respect to the initial particle density between the two regimes of fixation and activity;
       2. internal aggregation. Oil And Water has not a complete theory about internal aggregation, hence we analyzed a conjecture and introduced a new simpler model not present in the literature, with the same cluster growth rate as Oil And Water.
@@ -100,8 +100,10 @@ education:
     date_start: 2016-09-01
     date_end: 2019-09-18
     summary: |
-      *Title*:  Mathematical formalization of the financial market and CRR Model  
+      *Title*:  Mathematical formalization of the financial market and CRR Model
+
       *Supervisor*: [Gustavo Posta](https://www1.mat.uniroma1.it/people/posta/)
+
       *Short description*: Probabilistic description of a financial market, in order to study the CRR and the Black-Scholes model.
 #
 #      Courses included:
@@ -109,9 +111,9 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position:  Analyst in the Actuarial and Insurance Solutions division
+    company_name: Deloitte Touche
+    company_url: 'https://www.deloitte.com/it/it.html'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
@@ -123,7 +125,7 @@ work:
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
-    company_logo: ''
+    company_logo: "custom/deloitte"
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
