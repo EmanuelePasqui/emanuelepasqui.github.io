@@ -87,8 +87,8 @@ education:
       *Supervisor*: [Lorenzo Taggi](https://sites.google.com/site/lorenzotaggiswebpage2/)
 
       *Short description*: Oil And Water and Internal Diffusion Limited Aggregation are two randomly interacting particle systems on graphs. We considered, for both, two questions:
-      1. the phase transition with respect to the initial particle density between the two regimes of fixation and activity;
-      2. internal aggregation. Oil And Water has not a complete theory about internal aggregation, hence we analyzed a conjecture and introduced a new simpler model not present in the literature, with the same cluster growth rate as Oil And Water.
+      - the phase transition with respect to the initial particle density between the two regimes of fixation and activity;
+      - internal aggregation. Oil And Water has not a complete theory about internal aggregation, hence we analyzed a conjecture and introduced a new simpler model not present in the literature, with the same cluster growth rate as Oil And Water.
       We also compared the particles distributions on the clusters of the models and analyzed their fluctuations.
 #      
 #      Courses included:
@@ -115,24 +115,20 @@ work:
     company_name: Deloitte Touche
     company_url: 'https://www.deloitte.com/it/it.html'
     company_logo: 'custom/deloitte'
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-11-01
+    date_end: 2023-09-30
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Financial consulting for insurance companies
+      - ALM
+      - Management of scripts in Matlab and R for financial projections, given an expected return.
+  - position: University, High School and Middle School Private Tutor in Mathematics and Physics
+    company_name: ''
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2016-09-01
+    date_end: 2020-10-31
+    summary: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
