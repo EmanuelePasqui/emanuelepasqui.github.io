@@ -80,9 +80,12 @@ education:
     date_start: 2019-09-01
     date_end: 2022-03-29
     summary: |
-      *Grade*: 110 with honors/110\
-      *Title*: Oil And Water and Internal Diffusion Limited Aggregation\
+      *Grade*: 110 with honors/110
+
+      *Title*: Oil And Water and Internal Diffusion Limited Aggregation
+
       *Supervisor*: [Lorenzo Taggi](https://sites.google.com/site/lorenzotaggiswebpage2/)
+      
       *Short description*: Oil And Water and Internal Diffusion Limited Aggregation are two randomly interacting particle systems on graphs. We considered, for both, two questions:
       1. the phase transition with respect to the initial particle density between the two regimes of fixation and activity;
       2. internal aggregation. Oil And Water has not a complete theory about internal aggregation, hence we analyzed a conjecture and introduced a new simpler model not present in the literature, with the same cluster growth rate as Oil And Water.
