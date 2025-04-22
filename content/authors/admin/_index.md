@@ -114,7 +114,7 @@ work:
   - position:  Analyst in the Actuarial and Insurance Solutions division
     company_name: Deloitte Touche
     company_url: 'https://www.deloitte.com/it/it.html'
-    company_logo: ''
+    company_logo: 'custom/deloitte'
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
@@ -125,7 +125,7 @@ work:
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
-    company_logo: "custom/deloitte"
+    company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
