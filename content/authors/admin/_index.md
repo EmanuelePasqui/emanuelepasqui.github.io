@@ -133,13 +133,35 @@ work:
     summary: ''
 
 #Programming and markup languages
-programming and markup languages:
- - main:
+programming:
+ - name: Main
    items:
+    - name: C
+      description: excellent
+      icon: "custom/C"
+    - name: Python
+      description: excellent
+      icon: "custom/python"
     - name: Matlab
       description: excellent
       icon: "custom/matlab"
-
+    - name: R
+      description: excellent
+      icon: "custom/R"
+    - name: LaTeX
+      description: excellent
+      icon: "custom/latex"
+ - name: Secondary
+   items:
+    - name: FreeFEM
+      description: advanced
+      icon: "custom/freefem"
+    - name: Scilab
+      description: basic
+      icon: "custom/scilab"
+    - name: VBA
+      description: basic
+      icon: "custom/vba"
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

@@ -18,9 +18,9 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
+  - block: resume-programming
     content:
-      title: Skills & Hobbies
+      title: Programming & Markup Languages
       username: admin
     design:
       show_skill_percentage: false
