@@ -80,8 +80,8 @@ education:
     date_start: 2019-09-01
     date_end: 2022-03-29
     summary: |
-      *Grade*: 110 with honors/110
-      *Title*: Oil And Water and Internal Diffusion Limited Aggregation
+      *Grade*: 110 with honors/110\
+      *Title*: Oil And Water and Internal Diffusion Limited Aggregation\
       *Supervisor*: [Lorenzo Taggi](https://sites.google.com/site/lorenzotaggiswebpage2/)
       *Short description*: Oil And Water and Internal Diffusion Limited Aggregation are two randomly interacting particle systems on graphs. We considered, for both, two questions:
       1. the phase transition with respect to the initial particle density between the two regimes of fixation and activity;
@@ -205,13 +205,13 @@ awards:
 
 ## About Me
 
-![Illustration of GFF >](/images/GFF_per_github.png){: .align-right width="250px"}
-➕   I am a 2nd year Ph.D. student in Mathematics at [University of Padova](https://www.unipd.it/) in the probability group, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
+# ![Illustration of GFF >](/images/GFF_per_github.png){: .align-right width="250px"}
+# ➕   I am a 2nd year Ph.D. student in Mathematics at [University of Padova](https://www.unipd.it/) in the probability group, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
 
-➖   I am interested in Probability, specializing in Statistical Mechanics, in particular on random processes in random media, currently researching the Gaussian Free Field in random environment.
+# ➖   I am interested in Probability, specializing in Statistical Mechanics, in particular on random processes in random media, currently researching the Gaussian Free Field in random environment.
 
-✖️   My secondary interests are stochastic calculus, particle systems, and finance.
+# ✖️   My secondary interests are stochastic calculus, particle systems, and finance.
 
-➗   I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from Sapienza University of Rome.
+# ➗   I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from Sapienza University of Rome.
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
