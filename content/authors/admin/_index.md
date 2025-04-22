@@ -134,34 +134,42 @@ work:
 
 #Programming and markup languages
 programming:
- - name: Main
-   items:
-    - name: C
-      description: excellent
-      icon: "custom/C"
-    - name: Python
-      description: excellent
-      icon: "custom/python"
-    - name: Matlab
-      description: excellent
-      icon: "custom/matlab"
-    - name: R
-      description: excellent
-      icon: "custom/R"
-    - name: LaTeX
-      description: excellent
-      icon: "custom/latex"
- - name: Secondary
-   items:
-    - name: FreeFEM
-      description: advanced
-      icon: "custom/freefem"
-    - name: Scilab
-      description: basic
-      icon: "custom/scilab"
-    - name: VBA
-      description: basic
-      icon: "custom/vba"
+  - name: Main
+    items:
+      - name: C
+        description: excellent
+        icon: "custom/C"
+        percent: 80
+      - name: Python
+        description: excellent
+        icon: "custom/python"
+        percent: 80
+      - name: Matlab
+        description: excellent
+        icon: "custom/matlab"
+        percent: 80
+      - name: R
+        description: excellent
+        icon: "custom/R"
+        percent: 80
+      - name: LaTeX
+        description: excellent
+        icon: "custom/latex"
+        percent: 80
+  - name: Secondary
+    items:
+      - name: FreeFEM
+        description: advanced
+        icon: "custom/freefem"
+        percent: 80
+      - name: Scilab
+        description: basic
+        icon: "custom/scilab"
+        percent: 80
+      - name: VBA
+        description: basic
+        icon: "custom/vba"
+        percent: 80
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
