@@ -62,7 +62,9 @@ education:
     date_start: 2023-10-04
     date_end: ''
     summary: |
-      Supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
+      *Topic*: Probability, Statistical Mechanics.
+
+      *Supervisors*: [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
@@ -71,9 +73,9 @@ education:
     date start: 2022-04-01
     date end: 2022-07-31
     summary: |
-      - Supervised Learning: SVM, Decision Trees, Random Forests
-      - Unsupervised Learning: Clustering, PCA
-      - Neural Networks: modeling, activation function and regularization methods
+      - Supervised Learning: SVM, Decision Trees, Random Forests;
+      - Unsupervised Learning: Clustering, PCA;
+      - Neural Networks: modeling, activation function and regularization methods;
       - More advanced NN structures: Siamese Networks, AutoEncoders.
   - area: MSc Applied Mathematics
     institution: Sapienza University of Rome
@@ -118,9 +120,9 @@ work:
     date_start: 2022-11-01
     date_end: 2023-09-30
     summary: |2-
-      Responsibilities include:
-      - Financial consulting for insurance companies
-      - ALM
+      Experience include:
+      - Financial consulting for insurance companies;
+      - ALM;
       - Management of scripts in Matlab and R for financial projections, given an expected return.
   - position: University, High School and Middle School Private Tutor in Mathematics and Physics
     company_name: ''
@@ -129,6 +131,15 @@ work:
     date_start: 2016-09-01
     date_end: 2020-10-31
     summary: ''
+
+#Programming and markup languages
+programming and markup languages:
+ - main:
+   items:
+    - name: Matlab
+      description: excellent
+      icon: "custom/matlab"
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
