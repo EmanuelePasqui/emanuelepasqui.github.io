@@ -134,76 +134,77 @@ work:
 
 #Programming and markup languages
 programming:
-  - name: Main
-    items:
-      - name: C
-        description: excellent
-        icon: "custom/C"
-        percent: 80
-      - name: Python
-        description: excellent
-        icon: "custom/python"
-        percent: 80
-      - name: Matlab
-        description: excellent
-        icon: "custom/matlab"
-        percent: 80
-      - name: R
-        description: excellent
-        icon: "custom/R"
-        percent: 80
-      - name: LaTeX
-        description: excellent
-        icon: "custom/latex"
-        percent: 80
-  - name: Secondary
-    items:
-      - name: FreeFEM
-        description: advanced
-        icon: "custom/freefem"
-        percent: 80
-      - name: Scilab
-        description: basic
-        icon: "custom/scilab"
-        percent: 80
-      - name: VBA
-        description: basic
-        icon: "custom/vba"
-        percent: 80
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+- name: Main
+  items:
+    - name: C
+      description: excellent
+      icon: "custom/C"
+      percent: 80
+    - name: Python
+      description: excellent
+      icon: "custom/python"
+      percent: 80
+    - name: Matlab
+      description: excellent
+      icon: "custom/matlab"
+      percent: 80
+    - name: R
+      description: excellent
+      icon: "custom/R"
+      percent: 80
+    - name: LaTeX
+      description: excellent
+      icon: "custom/latex"
+      percent: 80
+- name: Secondary
+  items:
+    - name: FreeFEM
+      description: advanced
+      icon: "custom/freefem"
+      percent: 80
+    - name: Scilab
+      description: basic
+      icon: "custom/scilab"
+      percent: 80
+    - name: VBA
+      description: basic
+      icon: "custom/vba"
+      percent: 80
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: code-bracket
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-bar
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera
 
 languages:
   - name: Italian
