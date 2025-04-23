@@ -17,8 +17,8 @@ summary: Conference on Mixing Times between Probability, Computer Science and St
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-01T13:00:00Z'
-date_end: '2025-05-01T15:00:00Z'
+date: '2025-05-05T13:00:00Z'
+date_end: '2025-05-09T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
