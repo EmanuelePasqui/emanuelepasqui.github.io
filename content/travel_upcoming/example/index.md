@@ -1,5 +1,5 @@
 ---
-title: Trieste
+title: Conference in Trieste
 
 event: Conference on Mixing Times between Probability, Computer Science and Statistical Physics
 event_url: https://indico.ictp.it/event/10831
