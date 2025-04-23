@@ -242,6 +242,6 @@ languages:
 ## About Me
 
 I am a 2nd year Ph.D. candidate in Mathematics at [University of Padova](https://www.unipd.it/) in the probability group, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).\
-I am interested in probability, specializing in statistical mechanics, in particular on random processes in random media, currently researching the Gaussian free field in random environment.\
+I am interested in probability, specializing in statistical mechanics, in particular on random processes in random media.\
 I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from Sapienza University of Rome.\
 My secondary interests are stochastic calculus, particle systems, and finance.
