@@ -84,8 +84,7 @@ education:
     summary: |
       *Grade*: 110 with honors/110
 
-      *Title*: Oil And Water and Internal Diffusion Limited Aggregation
-
+      *Title*: Oil And Water and Internal Diffusion Limited Aggregation\
       *Supervisor*: [Lorenzo Taggi](https://sites.google.com/site/lorenzotaggiswebpage2/)
 
       *Short description*: Oil And Water and Internal Diffusion Limited Aggregation are two randomly interacting particle systems on graphs. We considered, for both, two questions:
@@ -102,8 +101,7 @@ education:
     date_start: 2016-09-01
     date_end: 2019-09-18
     summary: |
-      *Title*:  Mathematical formalization of the financial market and CRR Model
-
+      *Title*:  Mathematical formalization of the financial market and CRR Model\
       *Supervisor*: [Gustavo Posta](https://www1.mat.uniroma1.it/people/posta/)
 
       *Short description*: Probabilistic description of a financial market, in order to study the CRR and the Black-Scholes model.
