@@ -113,7 +113,7 @@ work:
   - position:  Analyst in the Actuarial and Insurance Solutions division
     company_name: Deloitte Touche
     company_url: 'https://www.deloitte.com/it/it.html'
-    company_logo: custom/deloitte
+    company_logo: ''
     date_start: 2022-11-01
     date_end: 2023-09-30
     summary: |2-
