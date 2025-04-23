@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](C:\Users\emanu\Desktop\Phd\webpage\v2\emanuelepasqui.github.io\content\travels\upcoming\example\trieste.jpg)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 #links:
