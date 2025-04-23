@@ -78,7 +78,7 @@ sections:
       title: Upcoming travels (as of May 2025)
       filters:
         folders:
-          - event
+          - travels
     design:
       view: article-grid
       columns: 1
