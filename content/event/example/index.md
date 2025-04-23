@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Trieste
 
 event: Conference on Mixing Times between Probability, Computer Science and Statistical Physics
 event_url: https://indico.ictp.it/event/10831
@@ -13,7 +13,7 @@ address:
   country: Italy
 
 summary: Conference on Mixing Times between Probability, Computer Science and Statistical Physics
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
