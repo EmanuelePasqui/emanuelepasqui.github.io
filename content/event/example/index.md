@@ -1,7 +1,7 @@
 ---
 title: Example Talk
 
-event: Hugo Blox Builder Conference
+event: Conference on Mixing Times between Probability, Computer Science and Statistical Physics
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
