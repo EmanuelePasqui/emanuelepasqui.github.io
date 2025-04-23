@@ -34,7 +34,8 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo: hero/home
+    logo:
+      text: "Homepage"
 
 # Site footer
 footer:
