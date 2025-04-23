@@ -130,10 +130,6 @@ work:
     date_end: 2020-10-31
     summary: ''
 
-#Programming and markup languages
-programming:
-  
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -211,6 +207,8 @@ languages:
     percent: 90
   - name: Spanish
     percent: 25
+  - name: German
+    percent: 0.25
 
 # Awards.
 #   Add/remove as many awards below as you like.
