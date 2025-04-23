@@ -73,7 +73,7 @@ sections:
 #      view: article-grid
 #      columns: 1
   - block: collection
-    id: upcoming_travels
+    id: travels_upcoming
     content:
       title: Upcoming travels (as of May 2025)
       filters:
