@@ -47,7 +47,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-5365-3370/
     label: ORCID page
-  - icon: academicicons/researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Emanuele-Pasqui/
     label: ResearchGate page
 
