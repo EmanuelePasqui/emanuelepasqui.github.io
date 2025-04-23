@@ -143,11 +143,11 @@ skills:
   items:
     - name: C
       description: excellent
-      icon: devicon/c
+      icon: devicon/c-plain
       percent: 80
     - name: Python
       description: excellent
-      icon: python
+      icon: devicon/python
       percent: 80
     - name: Matlab
       description: excellent
