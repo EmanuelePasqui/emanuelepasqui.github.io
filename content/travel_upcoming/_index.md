@@ -1,8 +1,7 @@
 ---
-title: Upcoming travels
+title: Recent & Upcoming Talks
 cms_exclude: true
 #url: talk
-id: travels_upcoming
 
 # View
 view: card
