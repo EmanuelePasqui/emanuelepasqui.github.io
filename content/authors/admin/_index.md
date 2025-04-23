@@ -121,12 +121,12 @@ work:
       - Financial consulting for insurance companies;
       - ALM;
       - Management of scripts in Matlab and R for financial projections, given an expected return.
-  - position: University, High School and Middle School Private Tutor in Mathematics and Physics
+  - position: University, High, Middle and Elementary School Tutor in Mathematics and Physics
     company_name: ''
     company_url: ''
     company_logo: ''
     date_start: 2016-09-01
-    date_end: 2020-10-31
+    date_end: 2025-04-30
     summary: ''
 
 # Skills
