@@ -150,10 +150,6 @@ skills:
       description: excellent
       icon: devicon/r
       percent: 80
-    - name: LaTeX
-      description: excellent
-      icon: devicon/latex
-      percent: 80
 - name: Secondary
   items:
     - name: FreeFEM
@@ -167,6 +163,10 @@ skills:
     - name: VBA
       description: basic
       icon: chart-bar
+      percent: 80
+    - name: LaTeX
+      description: excellent
+      icon: devicon/latex
       percent: 80
 #  - name: Technical Skills
 #    items:
