@@ -22,7 +22,7 @@ date_end: '2025-05-01T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+##publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+##url_code: 'https://github.com'
+##url_pdf: ''
+##url_slides: 'https://slideshare.net'
+##url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
