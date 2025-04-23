@@ -243,7 +243,7 @@ awards:
 
 ## About Me
 
-# ![Illustration of GFF >](/images/GFF_per_github.png){: .align-right width="250px"}
+# ![Illustration of GFF >](assets/media/GFF_per_github.png){: .align-right width="250px"}
 # ➕   I am a 2nd year Ph.D. student in Mathematics at [University of Padova](https://www.unipd.it/) in the probability group, supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
 
 # ➖   I am interested in Probability, specializing in Statistical Mechanics, in particular on random processes in random media, currently researching the Gaussian Free Field in random environment.
