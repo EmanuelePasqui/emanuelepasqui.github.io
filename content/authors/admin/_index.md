@@ -47,7 +47,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-5365-3370/
     label: ORCID page
-  - icon: "custom/researchgate"
+  - icon: academicicons/researchgate
     url: https://www.researchgate.net/profile/Emanuele-Pasqui/
     label: ResearchGate page
 
@@ -143,7 +143,7 @@ skills:
   items:
     - name: C
       description: excellent
-      icon: devicon/c-plain
+      icon: devicon/c
       percent: 80
     - name: Python
       description: excellent
@@ -151,29 +151,29 @@ skills:
       percent: 80
     - name: Matlab
       description: excellent
-      icon: circle-stack
+      icon: devicon/matlab
       percent: 80
     - name: R
       description: excellent
-      icon: chart-bar
+      icon: devicon/r
       percent: 80
     - name: LaTeX
       description: excellent
-      icon: "custom/latex"
+      icon: devicon/latex
       percent: 80
 - name: Secondary
   items:
     - name: FreeFEM
       description: advanced
-      icon: "custom/freefem"
+      icon: code-bracket
       percent: 80
     - name: Scilab
       description: basic
-      icon: "custom/scilab"
+      icon: circle-stack
       percent: 80
     - name: VBA
       description: basic
-      icon: "custom/vba"
+      icon: chart-bar
       percent: 80
 #  - name: Technical Skills
 #    items:
