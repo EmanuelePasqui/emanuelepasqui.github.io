@@ -1,5 +1,5 @@
 ---
-title: Upcoming Talks
+title: Upcoming travels
 cms_exclude: true
 #url: talk
 
