@@ -2,17 +2,17 @@
 title: Example Talk
 
 event: Conference on Mixing Times between Probability, Computer Science and Statistical Physics
-event_url: https://example.org
+event_url: https://indico.ictp.it/event/10831
 
-location: Hugo Blox Builder HQ
+location: ICTP Giambiagi Lecture Hall (AGH)
 address:
-  street: 450 Serra Mall
+  street: Adriatico Guest House, Riva Massimiliano e Carlotta, Trieste (Italy)
   city: Stanford
   region: CA
   postcode: '94305'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: Conference on Mixing Times between Probability, Computer Science and Statistical Physics
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
