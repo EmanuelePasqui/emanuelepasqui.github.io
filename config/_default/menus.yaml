@@ -7,21 +7,21 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
+#  - name: Papers
+#    url: /#papers
+#    weight: 11
+  - name: Travels
     url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
+    weight: 14
+#  - name: News
+#    url: /#news
+#    weight: 13
   - name: Essential CV
     url: essential_cv/
-    weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
+    weight: 12
+#  - name: Projects
+#    url: projects/
+#    weight: 30
+#  - name: Teaching
+#    url: teaching/
+#    weight: 40
