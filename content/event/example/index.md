@@ -7,10 +7,10 @@ event_url: https://indico.ictp.it/event/10831
 location: ICTP Giambiagi Lecture Hall (AGH)
 address:
   street: Adriatico Guest House, Riva Massimiliano e Carlotta, Trieste (Italy)
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  city: Trieste
+  region: Friuli-Venezia-Giulia
+  postcode: '34151'
+  country: Italy
 
 summary: Conference on Mixing Times between Probability, Computer Science and Statistical Physics
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
