@@ -11,7 +11,7 @@ main:
 #    url: /#papers
 #    weight: 11
   - name: Travels
-    url: travels/
+    url: /#travels
     weight: 14
 #  - name: News
 #    url: /#news
