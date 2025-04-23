@@ -164,9 +164,9 @@ skills:
       description: basic
       icon: chart-bar
       percent: 80
-    - name: LaTeX
-      description: excellent
-      icon: devicon/latex
+    - name: Mathematica
+      description: advanced
+      icon: '+'
       percent: 80
 #  - name: Technical Skills
 #    items:
