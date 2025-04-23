@@ -48,13 +48,16 @@ sections:
       subtitle: ''
       text: |-
         I will attend the following
-        - April 11, 2025. [A Spring Day in Probability and Statistical Physics](https://sites.google.com/unifi.it/florence-probability-group/probability-days?authuser=0#h.8nzflwnn4bpm), University of Florence, Italy (as part of the audience).
-        - June 30-July 4, 2025. [Random Geometric Structures and Statistical Physics workshop](https://sites.google.com/view/random-geometric-structures/home?authuser=0), Sapienza University of Rome, Italy (as part of the audience).
+        - May 05-09, 2025. [Conference on Mixing Times between Probability, Computer Science and Statistical Physics](https://indico.ictp.it/event/10831), ICTP, Trieste, Italy.
+        - June 30-July 4, 2025. [Random Geometric Structures and Statistical Physics workshop](https://sites.google.com/view/random-geometric-structures/home?pli=1), Sapienza University of Rome, Italy.
+
         Some past contributions
         - February 17-28, 2025. Poster at the Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability, Sapienza University of Rome, Italy.
         - June 17, 2024. Poster at Workshop on Probabilistic Field Theories, Aalto University, Espoo, Finland.
         - September 10-12, 2024. Poster at Particle Systems and PDE’s XII, University of Trieste, Italy.
+        
         Some more past travels
+        - April 11, 2025. A Spring Day in Probability and Statistical Physics, University of Florence, Italy.
         - September 23-27, 2024. Long-range phenomena in Percolation, University of Cologne, Germany.
         - September 18-20, 2024. Large scale behaviour of interacting diffusions: from stochastic control to functional inequalities, University of Padua, Italy.
         - April 19, 2024. A Spring Day in Probability and Statistical Physics, University of Florence, Italy.
