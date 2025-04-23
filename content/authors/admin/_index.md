@@ -62,8 +62,7 @@ education:
     date_start: 2023-10-04
     date_end: ''
     summary: |
-      *Topic*: Probability, Statistical Mechanics.
-
+      *Topic*: Probability, Statistical Mechanics.\
       *Supervisors*: [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
 #    button:
 #      text: 'Read Thesis'
