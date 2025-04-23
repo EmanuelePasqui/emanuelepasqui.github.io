@@ -2,7 +2,7 @@
 title: Upcoming travels
 cms_exclude: true
 #url: talk
-ID: travels_upcoming
+id: travels_upcoming
 
 # View
 view: card
