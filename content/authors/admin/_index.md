@@ -203,11 +203,9 @@ languages:
   - name: Italian
     percent: 100
   - name: English
-    percent: 90
+    percent: 95
   - name: Spanish
-    percent: 25
-  - name: German
-    percent: 0.25
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
