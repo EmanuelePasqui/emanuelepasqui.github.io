@@ -54,7 +54,7 @@ profiles:
 
 interests:
   - Statistical mechanics
-  - Stochastic interface 
+  - Stochastic interface models in random environment
   - Gaussian free field
   - Percolation
 
@@ -66,7 +66,7 @@ education:
     summary: |
       *Topic*: Probability, Statistical Mechanics.\
       *Supervisor*: [Alberto Chiarini](https://www.math.unipd.it/~chiarini/)\
-      *Cosupervisor*: [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).
+      *Cosupervisor*: [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/)
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
