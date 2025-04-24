@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:pasqui@math.unipd.it'
-    description: pasqui@math.unipd.it
+    name: pasqui@math.unipd.it
     label: E-mail me at pasqui@math.unipd.it
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
