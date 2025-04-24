@@ -54,7 +54,7 @@ profiles:
 
 interests:
   - Statistical mechanics
-  - Stochastic interface models in random environment
+  - Stochastic interface 
   - Gaussian free field
   - Percolation
 
