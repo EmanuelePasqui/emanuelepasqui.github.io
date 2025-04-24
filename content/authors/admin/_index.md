@@ -54,8 +54,9 @@ profiles:
 
 interests:
   - Statistical mechanics
-  - Stochastic calculus
-  - Finance
+  - Random motion in random media
+  - Gaussian free field
+  - Percolation
 
 education:
   - area: PhD Mathematics
