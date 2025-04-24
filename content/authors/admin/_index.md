@@ -54,7 +54,7 @@ profiles:
 
 interests:
   - Statistical mechanics
-  - Random motion in random media
+  - Stochastic interface models in random environment
   - Gaussian free field
   - Percolation
 
@@ -245,6 +245,6 @@ languages:
 ## Welcome!
 
 I am a second year Ph.D. candidate in [Mathematics](https://www.math.unipd.it/en/) at the [University of Padova](https://www.unipd.it/) in the [probability group](https://www.math.unipd.it/en/research/research-areas/mathematics/probability/), supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and cosupervised by [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).\
-I am interested in probability, specializing in statistical mechanics, in particular on random processes in random media.\
+I am interested in probability, specializing in statistical mechanics, in particular on stochastic interface models in random environment.\
 I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from Sapienza University of Rome.\
 My secondary interests are stochastic calculus, particle systems, and finance.
