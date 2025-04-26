@@ -64,6 +64,17 @@ sections:
         - June 10-14, 2024. 4th Italian Meeting on Probability and Mathematical Statistics, Sapienza University of Rome, Italy.
     design:
       columns: '1'
+
+  - block: markdown
+    id: travels
+    content:
+      title: '🧳 Upcoming travels (as of May 2025)'
+      subtitle: ''
+      text: |-
+       _I sill feel deep down within me that I want to do something impossible, that I want to do something difficult, that I want to do something hard. And that is my soul speaking to me, that is my growth challenging me, that is my potential screaming at me that it is not being utilised. I want to dig deep inside of me and I want to go and I want to be great, I want to utilise that potential, I want to go and reach those goals of mine, because I don't think I'm going to feel like myself unless I do, because I'm very growth oriented, I'm very motivated. I'm like a slingshot that's getting pulled back, and I'm getting stretched, and I'm getting stretched, and I'm getting stretched. And I'm ready to fire that bitch. Because there's an intensity inside of me that I have no outlet to pour into. And I want to start pouring: I want to start pouring into my running, I want to start pouring into my writing, I want to start pouring into my speaking. I want to be a writer, a motivational speaker and a runner, but I don't want to just be that: I want to be great at that._
+    #design:
+    #  columns: '1'
+      
 #  - block: collection
 #    id: papers
 #    content:
