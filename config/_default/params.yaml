@@ -23,7 +23,8 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: 'kEPM3yJVBxP9zsnRCpvxKgoBMKQyzDHiIrkqL8kIXJM'
+    google: ''
+#    google: 'kEPM3yJVBxP9zsnRCpvxKgoBMKQyzDHiIrkqL8kIXJM'
     baidu: ''
 
 # Site header
