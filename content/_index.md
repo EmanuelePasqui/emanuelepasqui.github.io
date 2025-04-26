@@ -71,7 +71,7 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-       >_I sill feel deep down within me that I want to do something impossible, something difficult, something har. That is my soul speaking to me, my growth challenging me, my potential screaming at me that it is not being utilised. I want to dig deep inside of me and go and be great. I want to utilise that potential, to reach those goals of mine. I'm like a slingshot that's getting pulled back, and I'm getting stretched and stretched and stretched, and I'm ready to fire. There's an intensity inside of me that I have no outlet to pour into, and I want to start pouring: into my running, my writing, my speaking. I want to be a writer, a motivational speaker and a runner, but I don't want to just be that: I want to be great at that._
+       "_I sill feel deep down within me that I want to do something impossible, something difficult, something har. That is my soul speaking to me, my growth challenging me, my potential screaming at me that it is not being utilised. I want to dig deep inside of me and go and be great. I want to utilise that potential, to reach those goals of mine. I'm like a slingshot that's getting pulled back, and I'm getting stretched and stretched and stretched, and I'm ready to fire. There's an intensity inside of me that I have no outlet to pour into, and I want to start pouring: into my running, my writing, my speaking. I want to be a writer, a motivational speaker and a runner, but I don't want to just be that: I want to be great at that._"
     design:
       columns: '1'
       
