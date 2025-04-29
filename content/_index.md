@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: darker-min1.jpg
+          filename: darker-min.jpg
           filters:
             brightness: 1.0
           size: cover
