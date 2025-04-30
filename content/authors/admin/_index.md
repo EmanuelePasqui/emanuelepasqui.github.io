@@ -50,7 +50,7 @@ profiles:
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Emanuele-Pasqui/
     label: ResearchGate page
-  - icon: custom/dm
+  - icon: "custom/dm"
     url: https://www.math.unipd.it/dipartimento/persone/emanuele.pasqui/
     label: UniPd page
 
