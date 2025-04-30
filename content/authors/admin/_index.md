@@ -50,9 +50,9 @@ profiles:
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Emanuele-Pasqui/
     label: ResearchGate page
-  #- icon: "custom/unipd-logo"
-  #  url: https://www.math.unipd.it/dipartimento/persone/emanuele.pasqui/
-  #  label: UniPd page
+  - icon: "custom/dm"
+    url: https://www.math.unipd.it/dipartimento/persone/emanuele.pasqui/
+    label: UniPd page
 
 interests:
   - Statistical mechanics
