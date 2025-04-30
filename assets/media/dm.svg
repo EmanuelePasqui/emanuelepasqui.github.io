@@ -1,31 +1,0 @@
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-<svg width="64px" height="64px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" fill="#ffffff" stroke="#ffffff">
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#f5f5f5" stroke-width="2.016">
-<defs>
-<style>.a{fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;}</style>
-</defs>
-<path class="a" d="M5.5,5.5H21.225V21.225H5.5"/>
-<path class="a" d="M42.5,5.5V21.225H26.775V5.5"/>
-<path class="a" d="M21.225,42.5V26.775H5.5V42.5"/>
-<path class="a" d="M42.5,26.775H26.775V42.5H42.5"/>
-<path class="a" d="M5.5,5.5a7.8625,7.8625,0,0,1,0,15.725h0V5.5Z"/>
-<path class="a" d="M42.5,5.5a7.8625,7.8625,0,0,1-15.725,0H42.5Z"/>
-<path class="a" d="M5.5,42.5a7.8625,7.8625,0,0,1,15.725,0H5.5Z"/>
-<path class="a" d="M42.5,42.5a7.8625,7.8625,0,0,1,0-15.725V42.5Z"/>
-</g>
-<g id="SVGRepo_iconCarrier">
-<defs>
-<style>.a{fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;}</style>
-</defs>
-<path class="a" d="M5.5,5.5H21.225V21.225H5.5"/>
-<path class="a" d="M42.5,5.5V21.225H26.775V5.5"/>
-<path class="a" d="M21.225,42.5V26.775H5.5V42.5"/>
-<path class="a" d="M42.5,26.775H26.775V42.5H42.5"/>
-<path class="a" d="M5.5,5.5a7.8625,7.8625,0,0,1,0,15.725h0V5.5Z"/>
-<path class="a" d="M42.5,5.5a7.8625,7.8625,0,0,1-15.725,0H42.5Z"/>
-<path class="a" d="M5.5,42.5a7.8625,7.8625,0,0,1,15.725,0H5.5Z"/>
-<path class="a" d="M42.5,42.5a7.8625,7.8625,0,0,1,0-15.725V42.5Z"/>
-</g>
-</svg>
