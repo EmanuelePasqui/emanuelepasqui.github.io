@@ -41,7 +41,8 @@ profiles:
   #  url: https://github.com/gcushen
   - icon: brands/linkedin
     url: http://linkedin.com/in/emanuelepasqui/
-    label: LinkedIn, just to showboat
+    label: LinkedIn
+    #, just to showboat
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   - icon: academicons/orcid
