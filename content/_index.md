@@ -56,12 +56,12 @@ sections:
         - June 17, 2024. Poster at Workshop on Probabilistic Field Theories, Aalto University, Espoo, Finland.
         - September 10-12, 2024. Poster at Particle Systems and PDE’s XII, University of Trieste, Italy.
 
-        Some more past travels
-        - April 11, 2025. A Spring Day in Probability and Statistical Physics, University of Florence, Italy.
-        - September 23-27, 2024. Long-range phenomena in Percolation, University of Cologne, Germany.
-        - September 18-20, 2024. Large scale behaviour of interacting diffusions: from stochastic control to functional inequalities, University of Padua, Italy.
-        - April 19, 2024. A Spring Day in Probability and Statistical Physics, University of Florence, Italy.
-        - June 10-14, 2024. 4th Italian Meeting on Probability and Mathematical Statistics, Sapienza University of Rome, Italy.
+      #  Some more past travels
+      #  - April 11, 2025. A Spring Day in Probability and Statistical Physics, University of Florence, Italy.
+      #  - September 23-27, 2024. Long-range phenomena in Percolation, University of Cologne, Germany.
+      #  - September 18-20, 2024. Large scale behaviour of interacting diffusions: from stochastic control to functional inequalities, University of Padua, Italy.
+      #  - April 19, 2024. A Spring Day in Probability and Statistical Physics, University of Florence, Italy.
+      #  - June 10-14, 2024. 4th Italian Meeting on Probability and Mathematical Statistics, Sapienza University of Rome, Italy.
     design:
       columns: '1'
 #  - block: markdown
