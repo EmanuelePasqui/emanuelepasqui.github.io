@@ -51,7 +51,7 @@ sections:
         - February 17-28, 2025. Poster at the Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability, Sapienza University of Rome, Italy.
         - June 17, 2024. Poster at Workshop on Probabilistic Field Theories, Aalto University, Espoo, Finland.
         - September 10-12, 2024. Poster at Particle Systems and PDE’s XII, University of Trieste, Italy.
-        #I will attend the following
+      #I will attend the following
       #  - May 05-09, 2025. [Conference on Mixing Times between Probability, Computer Science and Statistical Physics](https://indico.ictp.it/event/10831), ICTP, Trieste, Italy (as part of the audience).
       #  - June 30-July 4, 2025. [Random Geometric Structures and Statistical Physics workshop](https://sites.google.com/view/random-geometric-structures/home?pli=1), Sapienza University of Rome, Italy (as part of the audience).
       #
