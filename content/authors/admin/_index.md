@@ -243,6 +243,8 @@ languages:
 #    icon: datacamp
 #    summary: |
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+# My secondary interests are stochastic calculus, particle systems, and finance.
 ---
 
 ## Welcome!
@@ -250,5 +252,4 @@ languages:
 I am a second year Ph.D. candidate in [Mathematics](https://www.math.unipd.it/en/) at the [University of Padova](https://www.unipd.it/) in the [probability group](https://www.math.unipd.it/en/research/research-areas/mathematics/probability/).\
 I am supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and cosupervised by [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).\
 I am interested in probability, specializing in statistical mechanics, in particular on stochastic interface models in random environment.\
-I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home/).\
-My secondary interests are stochastic calculus, particle systems, and finance.
+I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home/).
