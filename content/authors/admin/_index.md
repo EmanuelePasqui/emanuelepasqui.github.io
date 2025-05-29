@@ -24,8 +24,10 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Padova, Torre Archimede, room 7C3
+  - name: University of Padova
     url: https://www.unipd.it/
+  - name: Torre Archimede, room 7C3
+    url: https://www.math.unipd.it/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
