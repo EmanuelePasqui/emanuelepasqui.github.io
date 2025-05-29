@@ -24,7 +24,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Padova (Torre Archimede, room 7C3)
+  - name: University of Padova, Torre Archimede, room 7C3
     url: https://www.unipd.it/
 
 # Social network links
