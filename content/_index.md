@@ -48,7 +48,7 @@ sections:
       subtitle: ''
       text: |-
         Some past contributions
-        - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment in dimension $d \geq 3$", University of Padova, Italy
+        - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment in dimension >= 3",
         - February 17-28, 2025. Poster at the Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability, Sapienza University of Rome, Italy.
         - September 10-12, 2024. Poster at Particle Systems and PDE’s XII, University of Trieste, Italy.
         - June 17, 2024. Poster at Workshop on Probabilistic Field Theories, Aalto University, Espoo, Finland.
