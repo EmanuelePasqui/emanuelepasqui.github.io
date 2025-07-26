@@ -62,14 +62,14 @@ interests:
   - Percolation
 
 education:
-#  - area: PhD Mathematics
-#    institution: University of Padova
-#    date_start: 2023-10-04
-#    date_end: ''
-#    summary: |
-#      *Topic*: Probability, Statistical Mechanics.\
-#      *Supervisor*: [Alberto Chiarini](https://www.math.unipd.it/~chiarini/)\
-#      *Cosupervisor*: [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/)
+  - area: PhD Mathematics (ongoing)
+    institution: University of Padova
+    date_start: 2023-10-04
+    date_end: ''
+    summary: |
+      *Topic*: Probability, Statistical Mechanics.\
+      *Supervisor*: [Alberto Chiarini](https://www.math.unipd.it/~chiarini/)\
+      *Cosupervisor*: [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/)
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
@@ -252,4 +252,4 @@ languages:
 I am a second year Ph.D. candidate in [Mathematics](https://www.math.unipd.it/en/) at the [University of Padova](https://www.unipd.it/) in the [probability group](https://www.math.unipd.it/en/research/research-areas/mathematics/probability/).\
 I am supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and cosupervised by [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).\
 I am interested in probability, specializing in statistical mechanics, in particular on stochastic interface models in random environment.\
-I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home/)PROVE.
+I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home/).
