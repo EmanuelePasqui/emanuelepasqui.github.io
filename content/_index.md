@@ -48,13 +48,13 @@ sections:
       subtitle: ''
       text: |-
         Upcoming events
-        - November 11, 2025. [Bloomsbury Probability Seminar](https://sites.google.com/view/probability-at-ucl/seminar?authuser=0), University College London, UK.
+          - November 11, 2025. [Bloomsbury Probability Seminar](https://sites.google.com/view/probability-at-ucl/seminar?authuser=0), University College London, UK.
         Some past contributions
-        - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment on $Z^d$ with $d \geq 3$", University of Padova, Italy.
-        - February 17-28, 2025. Poster at the Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability, Sapienza University of Rome, Italy.
-        - September 10-12, 2024. Poster at Particle Systems and PDE’s XII, University of Trieste, Italy.
-        - June 17, 2024. Poster at Workshop on Probabilistic Field Theories, Aalto University, Espoo, Finland.
-        - February 8 and 12, 2024. Seminars on Activated Random Walks, Internal DLA and the Oil And Water model, University of Padova, Italy. 
+          - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment on $Z^d$ with $d \geq 3$", University of Padova, Italy.
+          - February 17-28, 2025. Poster at the Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability, Sapienza University of Rome, Italy.
+          - September 10-12, 2024. Poster at Particle Systems and PDE’s XII, University of Trieste, Italy.
+          - June 17, 2024. Poster at Workshop on Probabilistic Field Theories, Aalto University, Espoo, Finland.
+          - February 8 and 12, 2024. Seminars on Activated Random Walks, Internal DLA and the Oil And Water model, University of Padova, Italy. 
       #  - June 30-July 4, 2025. [Random Geometric Structures and Statistical Physics workshop](https://sites.google.com/view/random-geometric-structures/home?pli=1), Sapienza University of Rome, Italy (as part of the audience).
       #
       #  Some more past travels
