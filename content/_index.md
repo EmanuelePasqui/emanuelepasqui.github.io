@@ -49,6 +49,7 @@ sections:
       text: |-
         Upcoming events
         - November 11, 2025. [Bloomsbury Probability Seminar](https://sites.google.com/view/probability-at-ucl/seminar?authuser=0), University College London, UK.\
+        
         Some past contributions
         - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment on $Z^d$ with $d \geq 3$", University of Padova, Italy.
         - February 17-28, 2025. Poster at the Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability, Sapienza University of Rome, Italy.
