@@ -42,9 +42,16 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: Papers
+    content:
+      title: '🧳 Papers (as of October 2025)'
+      subtitle: ''
+      text: |-
+        - (with Alberto Chiarini) "Hard wall repulsion for the discrete Guassian free field in random environment on $\mathbb{Z}^d$, $d \geq 3$" (2025).
+  - block: markdown
     id: travels
     content:
-      title: '🧳 Travels and contributions (as of May 2025)'
+      title: '🧳 Travels and contributions (as of October 2025)'
       subtitle: ''
       text: |-
         Upcoming event: November 11, 2025. [Bloomsbury Probability Seminar](https://sites.google.com/view/probability-at-ucl/seminar?authuser=0), University College London, UK.\
@@ -62,8 +69,7 @@ sections:
       #  - September 18-20, 2024. Large scale behaviour of interacting diffusions: from stochastic control to functional inequalities, University of Padua, Italy.
       #  - April 19, 2024. A Spring Day in Probability and Statistical Physics, University of Florence, Italy.
       #  - June 10-14, 2024. 4th Italian Meeting on Probability and Mathematical Statistics, Sapienza University of Rome, Italy.
-    design:
-      columns: '1'
+    
 #  - block: markdown
 #    id: travels
 #    content:
