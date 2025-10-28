@@ -42,16 +42,14 @@ sections:
     design:
       columns: '1'
   - block: markdown
-    id: Papers
+    id: Papers and travels
     content:
-      title: '🧳 Papers (as of October 2025)'
+      title: '📄 Papers (as of October 2025)'
       subtitle: ''
       text: |-
         - (with Alberto Chiarini) "Hard wall repulsion for the discrete Guassian free field in random environment on $\mathbb{Z}^d$, $d \geq 3$" (2025).
-  - block: markdown
-    id: travels
     content:
-      title: '🧳 Travels and contributions (as of October 2025)'
+      title: '🧳 Contributions and travel (as of October 2025)'
       subtitle: ''
       text: |-
         Upcoming event: November 11, 2025. [Bloomsbury Probability Seminar](https://sites.google.com/view/probability-at-ucl/seminar?authuser=0), University College London, UK.\
