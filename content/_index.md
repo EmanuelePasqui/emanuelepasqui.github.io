@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         I am working in the field of randomly fluctuating interfaces, which arises naturally in the context of coexistence of two homogeneous phases and is studied in a variety of statistical mechanics models.\
-        <img align="right" width="250" height="300" src="GFF_per_github.png">I am currently working on the Gaussian free field in random environment with [Alberto Chiarini](https://www.math.unipd.it/~chiarini/).
+        <img align="right" width="250" height="300" src="GFF_per_github.png">I am currently working on the Gaussian free field in random environment with [Alessandra Cipriani](https://sites.google.com/site/aciprian41/) and [Alberto Chiarini](https://www.math.unipd.it/~chiarini/).
         
         Please reach out to collaborate 😃
     design:
