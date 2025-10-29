@@ -47,7 +47,7 @@ sections:
       title: '📄 Papers (as of October 2025)'
       subtitle: ''
       text: |-
-        - (with Alberto Chiarini) "Hard wall repulsion for the discrete Guassian free field in random environment on $\mathbb{Z}^d$, $d \geq 3$" (2025).
+        - (with Alberto Chiarini) "Hard wall repulsion for the discrete Guassian free field in random environment on $\mathbb{Z}^d$, $d \geq 3$" (2025). [[arXiv]](https://arxiv.org/abs/2510.24562)
   - block: markdown
     id: travels
     content:
