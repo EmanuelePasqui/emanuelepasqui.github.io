@@ -42,7 +42,7 @@ sections:
     design:
       columns: '1'
   - block: markdown
-    id: Papers
+    id: papers
     content:
       title: '📄 Papers (as of October 2025)'
       subtitle: ''
