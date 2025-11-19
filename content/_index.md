@@ -51,8 +51,8 @@ sections:
   - block: markdown
     id: travels
     content:
-      title: '🧳 Contributions and travel (as of November 2025)'
-      subtitle: ''
+      title: '🧳 Contributions and travel'
+      subtitle: 'as of November 2025'
       text: |-
         Some past contributions
         - November 11, 2025. Talk "Hard wall repulsion for the discrete Gaussian free field in random environment on Z^d, d≥3", Bloomsbury Probability Seminar,  University College London, London, UK.
