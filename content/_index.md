@@ -47,7 +47,7 @@ sections:
       title: '📄 Papers (as of October 2025)'
       subtitle: ''
       text: |-
-        - (with Alberto Chiarini) "Hard wall repulsion for the discrete Guassian free field in random environment on $\mathbb{Z}^d$, $d \geq 3$" (2025). [[arXiv]](https://arxiv.org/abs/2510.24562)
+        - (with Alberto Chiarini) "Hard wall repulsion for the discrete Guassian free field in random environment on Z^d, d≥3" (2025). [[arXiv]](https://arxiv.org/abs/2510.24562)
   - block: markdown
     id: travels
     content:
@@ -56,7 +56,7 @@ sections:
       text: |-
         Some past contributions
         - November 11, 2025. Talk "Hard wall repulsion for the discrete Gaussian free field in random environment on Z^d, d≥3", Bloomsbury Probability Seminar,  University College London, London, UK.
-        - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment on $Z^d$ with $d \geq 3$", University of Padova, Italy.
+        - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment on $Z^d$ with $d≥3$", University of Padova, Italy.
         - February 17-28, 2025. Poster at the Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability, Sapienza University of Rome, Italy.
         - September 10-12, 2024. Poster at Particle Systems and PDE’s XII, University of Trieste, Italy.
         - June 17, 2024. Poster at Workshop on Probabilistic Field Theories, Aalto University, Espoo, Finland.
