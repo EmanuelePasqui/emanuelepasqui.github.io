@@ -55,7 +55,7 @@ sections:
       subtitle: ''
       text: |-
         Some past contributions
-        - Nov 11, 2025. Talk "Hard wall repulsion for the discrete Gaussian free field in random environment on Z^d, d≥3", Bloomsbury Probability Seminar,  University College London, London, UK.
+        - November 11, 2025. Talk "Hard wall repulsion for the discrete Gaussian free field in random environment on Z^d, d≥3", Bloomsbury Probability Seminar,  University College London, London, UK.
         - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment on $Z^d$ with $d \geq 3$", University of Padova, Italy.
         - February 17-28, 2025. Poster at the Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability, Sapienza University of Rome, Italy.
         - September 10-12, 2024. Poster at Particle Systems and PDE’s XII, University of Trieste, Italy.
