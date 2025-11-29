@@ -10,7 +10,7 @@ main:
 #  - name: Papers
 #    url: /#papers
 #    weight: 11
-  - name: Travels
+  - name: Contributions & travel
     url: /#travels
     weight: 14
 #  - name: News
