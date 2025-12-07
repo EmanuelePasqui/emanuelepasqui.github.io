@@ -54,7 +54,7 @@ sections:
       title: '🧳 Contributions and travel'
       subtitle: 'as of November 2025'
       text: |-
-        Some past contributions
+        Some past contributions:
         - November 20, 2025. Talk "Extremes and hard wall repulsion for the Gaussian free field in random environment on Z^d, d≥3", Probability reading group, King's College London, London, UK.
         - November 11, 2025. Talk "Hard wall repulsion for the discrete Gaussian free field in random environment on Z^d, d≥3", Bloomsbury Probability Seminar, University College London, London, UK.
         - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment on Z^d with d≥3", University of Padova, Italy.
