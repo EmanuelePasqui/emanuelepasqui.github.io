@@ -116,7 +116,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position:  Tutor for the course "Foundations of mathematical analysis and probability" for the a.y. 2025-2026 and 2024-2025
+  - position:  Tutor for the course "Foundations of mathematical analysis and probability (a.y. 2025-2026 and 2024-2025)
     company_name: University of Padua
     company_url: ''
     company_logo: ''
