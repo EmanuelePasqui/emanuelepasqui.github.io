@@ -24,7 +24,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Padova, Torre Archimede, room 7C3
+  - name: University of Padua, Torre Archimede, room 7C3
     url: https://www.unipd.it/
 
 # Social network links
@@ -63,7 +63,7 @@ interests:
 
 education:
   - area: PhD Mathematics (ongoing)
-    institution: University of Padova
+    institution: University of Padua
     date_start: 2023-10-04
     date_end: ''
     summary: |
@@ -251,7 +251,7 @@ languages:
 
 ## Welcome!
 
-I am a last year Ph.D. candidate in [Mathematics](https://www.math.unipd.it/en/) at the [University of Padova](https://www.unipd.it/) in the [probability group](https://www.math.unipd.it/en/research/research-areas/mathematics/probability/).\
+I am a last year Ph.D. candidate in [Mathematics](https://www.math.unipd.it/en/) at the [University of Padua](https://www.unipd.it/) in the [probability group](https://www.math.unipd.it/en/research/research-areas/mathematics/probability/).\
 I am supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and cosupervised by [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).\
 I am interested in probability, specializing in statistical mechanics, in particular in stochastic interface models in random environment.\
 I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home/).
