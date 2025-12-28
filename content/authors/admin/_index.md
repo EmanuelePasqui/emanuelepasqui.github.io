@@ -269,3 +269,4 @@ I am a last year Ph.D. candidate in [Mathematics](https://www.math.unipd.it/en/)
 I am supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and cosupervised by [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).\
 I am interested in probability, specializing in statistical mechanics, in particular in stochastic interface models in random environment.\
 I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home/).
+I currently do tutoring for University students (see my CV below for further details).
