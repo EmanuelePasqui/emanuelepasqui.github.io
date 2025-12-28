@@ -116,19 +116,12 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position:  Tutor for the course "Foundations of mathematical analysis and probability" for the a.y. 2025-2026
+  - position:  Tutor for the course "Foundations of mathematical analysis and probability" for the a.y. 2025-2026 and 2024-2025
     company_name: University of Padua
     company_url: ''
     company_logo: ''
-    date_start: 2025-10-01
-    date_end: 2026-02-28
-    summary: ''
-  - position:  Tutor for the course "Foundations of mathematical analysis and probability" for the a.y. 2024-2025
-    company_name: University of Padua
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-10-01
-    date_end: 2025-02-28
+    date_start: ''
+    date_end: ''
     summary: ''
   - position:  Analyst in the Actuarial and Insurance Solutions division
     company_name: Deloitte Touche
