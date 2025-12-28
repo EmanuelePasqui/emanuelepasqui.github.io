@@ -51,9 +51,10 @@ sections:
   - block: markdown
     id: travels
     content:
-      title: '🧳 Contributions and travel (as of December 2025)'
+      title: '🧳 Contributions & travel (as of December 2025)'
       subtitle: ''
       text: |-
+        Past and upcoming:
         - June 2026. Talk at the "5th Italian Meeting on Probability and Mathematical Statistics", University of Palermo, Italy.
         - March 2026. Talk at the Hong Kong University of Sciences and Technology, Hong Kong.
         - January 29, 2026. Talk at the Graduate Seminar, University of Padua, Italy.
