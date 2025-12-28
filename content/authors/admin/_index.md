@@ -258,7 +258,7 @@ languages:
 
 ## Welcome!
 
-I am a last year Ph.D. candidate in [Mathematics](https://www.math.unipd.it/en/) at the [University of Padua](https://www.unipd.it/) in the [probability group](https://www.math.unipd.it/en/research/research-areas/mathematics/probability/).\
+I am a last year PhD candidate in [Mathematics](https://www.math.unipd.it/en/) at the [University of Padua](https://www.unipd.it/) in the [probability group](https://www.math.unipd.it/en/research/research-areas/mathematics/probability/).\
 I am supervised by [Alberto Chiarini](https://www.math.unipd.it/~chiarini/) and cosupervised by [Giambattista Giacomin](https://www.math.unipd.it/~giacomin/).\
 My interests lie in probability, with a focus on statistical mechanics, in particular on stochastic interface models in random environment, and I am currently seeking postdoctoral research opportunities in these fields.\
 I have a Master's degree in Applied Mathematics and a Bachelor's in Mathematics, both from [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home/).\
