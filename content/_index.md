@@ -51,7 +51,7 @@ sections:
   - block: markdown
     id: travels
     content:
-      title: '🧳 Contributions & travel (as of December 2025)'
+      title: '🧳 Contributions and travel (as of December 2025)'
       subtitle: ''
       text: |-
         Past and upcoming:
