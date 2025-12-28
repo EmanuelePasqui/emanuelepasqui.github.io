@@ -51,17 +51,21 @@ sections:
   - block: markdown
     id: travels
     content:
-      title: '🧳 Contributions and travel'
-      subtitle: 'as of November 2025'
+      title: '🧳 Contributions and travel (as of December 2025)'
+      subtitle: ''
       text: |-
-        Some past contributions:
+        Past and upcoming contributions:
+        - June 2026. Talk at the "5th Italian Meeting on Probability and Mathematical Statistics", University of Palermo, Italy.
+        - March 2026. Talk at the Hong Kong University of Sciences and Technology, Hong Kong.
+        - January 29, 2026. Talk at the Graduate Seminar, University of Padua, Italy.
+        - January, 2026. Talk at the Winter school "Random walks: applications and interactions", CIRM, Marseille, France.
         - November 20, 2025. Talk "Extremes and hard wall repulsion for the Gaussian free field in random environment on Z^d, d≥3", Probability reading group, King's College London, London, UK.
         - November 11, 2025. Talk "Hard wall repulsion for the discrete Gaussian free field in random environment on Z^d, d≥3", Bloomsbury Probability Seminar, University College London, London, UK.
-        - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment on Z^d with d≥3", University of Padova, Italy.
+        - May 29, 2025. Talk "Hard Wall event for the Gaussian free field in random environment on Z^d with d≥3", University of Padua, Italy.
         - February 17-28, 2025. Poster at the Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability, Sapienza University of Rome, Italy.
         - September 10-12, 2024. Poster at Particle Systems and PDE’s XII, University of Trieste, Italy.
         - June 17, 2024. Poster at Workshop on Probabilistic Field Theories, Aalto University, Espoo, Finland.
-        - February 8 and 12, 2024. Seminars on Activated Random Walks, Internal DLA and the Oil And Water model, University of Padova, Italy. 
+        - February 8 and 12, 2024. Seminars on Activated Random Walks, Internal DLA and the Oil And Water model, University of Padua, Italy. 
       #  - June 30-July 4, 2025. [Random Geometric Structures and Statistical Physics workshop](https://sites.google.com/view/random-geometric-structures/home?pli=1), Sapienza University of Rome, Italy (as part of the audience).
       #
       #  Some more past travels
