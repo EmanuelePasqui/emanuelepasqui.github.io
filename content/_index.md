@@ -55,8 +55,8 @@ sections:
       subtitle: ''
       text: |-
         
-        - June 2026. Talk at the "5th Italian Meeting on Probability and Mathematical Statistics", University of Palermo, Italy.
-        - March 2026. Talk at the Hong Kong University of Sciences and Technology, Hong Kong.
+        - June 11, 2026. Talk "Hard wall repulsion for the discrete Gaussian free field in random environment in supercritical dimension" at the "5th Italian Meeting on Probability and Mathematical Statistics", University of Palermo, Italy.
+        - March 5, 2026. Talk "Hard wall repulsion for the supercritical discrete Gaussian free field in random environment", Hong Kong University of Sciences and Technology, Hong Kong.
         - January 29, 2026. Talk "Effect of bond disorder on the supercritical discrete Gaussian free field", Graduate Seminar, University of Padua, Italy.
         - January 20, 2026. Talk "Hard wall repulsion for the supercritical discrete Gaussian free field in random environment", Winter school "Random walks: applications and interactions", CIRM, Marseille, France.
         - November 20, 2025. Talk "Extremes and hard wall repulsion for the Gaussian free field in random environment on Z^d, d≥3", Probability reading group, King's College London, London, UK.
