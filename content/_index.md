@@ -51,10 +51,11 @@ sections:
   - block: markdown
     id: travels
     content:
-      title: '🧳 Contributions and travel (as of January 2026)'
+      title: '🧳 Contributions and travel (as of June 2026)'
       subtitle: ''
       text: |-
         
+        - June 18, 2026. Talk "Hard wall repulsion for the discrete Gaussian free field in random environment in supercritical dimension", 45th Conference on Stochastic Processes and their Applications, Cornell University, Ithaca, New York. 
         - June 11, 2026. Talk "Hard wall repulsion for the discrete Gaussian free field in random environment in supercritical dimension", 5th Italian Meeting on Probability and Mathematical Statistics, University of Palermo, Italy. 
         - March 5, 2026. Talk "Hard wall repulsion for the supercritical discrete Gaussian free field in random environment", Hong Kong University of Sciences and Technology, Hong Kong.
         - January 29, 2026. Talk "Effect of bond disorder on the supercritical discrete Gaussian free field", Graduate Seminar, University of Padua, Italy.
