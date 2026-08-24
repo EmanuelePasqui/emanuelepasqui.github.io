@@ -47,7 +47,7 @@ sections:
       title: '📄 Papers (as of August 2026)'
       subtitle: ''
       text: |-
-        - (2025) A. Chiarini, E. Pasqui. "Hard wall repulsion for the discrete Guassian free field in random environment on Z^d, d≥3", [Probab. Theory Relat. Fields (2026)](https://doi.org/10.1007/s00440-026-01529-2).
+        - (2025) A. Chiarini, E. Pasqui. "Hard wall repulsion for the discrete Guassian free field in random environment on Z^d, d≥3", [Probab. Theory Relat. Fields (2026)](https://doi.org/10.1007/s00440-026-01529-2). 
   - block: markdown
     id: travels
     content:
