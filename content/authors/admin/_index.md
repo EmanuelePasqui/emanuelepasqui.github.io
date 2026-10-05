@@ -31,8 +31,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:pasqui@math.unipd.it'
-    label: E-mail me at pasqui@math.unipd.it
+    url: 'mailto:emanuelepasqui97@gmail.com'
+    label: E-mail me at emanuelepasqui97@gmail.com
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram
